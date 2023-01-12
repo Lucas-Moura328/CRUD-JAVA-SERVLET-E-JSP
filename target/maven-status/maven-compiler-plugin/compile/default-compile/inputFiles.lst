@@ -1,0 +1,7 @@
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/ProdutoDAO.java
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/LocalizadorServico.java
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/persistencia/BancoDados.java
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/Produto.java
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/GestaoProduto.java
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/FabricaDAO.java
+/home/lucas/Projects/aula6-1_topicos_backend_etapas_1_e_2/AvaliacaoTopicos/src/main/java/br/com/fatecmogidascruzes/topicosbackend1/ProdutoDAOPostgreSQL.java

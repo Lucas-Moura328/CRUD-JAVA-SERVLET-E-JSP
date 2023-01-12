@@ -1,0 +1,7 @@
+br/com/fatecmogidascruzes/topicosbackend1/ProdutoDAO.class
+br/com/fatecmogidascruzes/topicosbackend1/ProdutoDAOPostgreSQL.class
+br/com/fatecmogidascruzes/topicosbackend1/GestaoProduto.class
+br/com/fatecmogidascruzes/topicosbackend1/persistencia/BancoDados.class
+br/com/fatecmogidascruzes/topicosbackend1/LocalizadorServico.class
+br/com/fatecmogidascruzes/topicosbackend1/FabricaDAO.class
+br/com/fatecmogidascruzes/topicosbackend1/Produto.class
